@@ -5,5 +5,5 @@ Hola Amigos y Amigas 🙃 este repositorio es para que practiquen como hacer un 
 1. Lo que vas a hacer es escribir siguiendo la lista, tu usuario de tiktok o de alguna red social a la que pertenezcas, empiezo yo 😊
 
 a. Tiktok: @nataliariano_
-b.
+
 
