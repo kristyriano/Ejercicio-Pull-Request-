@@ -2,5 +2,6 @@
 
  Hola mi nombre es jesus pabon 
  soy nuevo en este mundo 
+ estudiando programacion de aplicacion y servicios para la nube
  y esto es prueva de aprendizaje 
  muchas gracias 
